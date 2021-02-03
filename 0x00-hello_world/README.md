@@ -1,0 +1,1 @@
+save files and run it with "gcc"
