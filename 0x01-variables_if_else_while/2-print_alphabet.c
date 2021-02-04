@@ -11,10 +11,6 @@ for (v = 'a'; v <= 'z'; ++v)
 {
 putchar(v);
 }
-for (v = 'A'; v <= 'Z'; ++v)
-{
-putchar(v);
-}
 putchar('\n');
 return (0);
 }
