@@ -1,20 +1,20 @@
-
 #include <stdio.h>
-
 /**
- *main - main function
- *
- *Return: 0
- */
+*main - main function
+*
+*Return: 0
+*/
 int main(void)
 {
-char i;
-for (i = 'a'; i <= 'z'; i++)
-printf("%c ", i);
+char x;
+for (x = 'a'; x <= 'z'; ++x)
+{
+putchar(x);
+}
+for (x = 'A'; x <= 'Z'; ++x)
+{
+putchar(x);
+}
 putchar('\n');
-for (i = 'A'; i <= 'Z'; i++)
-printf("%c ", i);
-putchar('\n');
-
 return (0);
 }
