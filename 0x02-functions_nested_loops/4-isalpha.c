@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*_isalpha- lowercase or uppercase
+*_isalpha- 0
 *@c: integer
 *Return: sometime 0 or 1
 */
