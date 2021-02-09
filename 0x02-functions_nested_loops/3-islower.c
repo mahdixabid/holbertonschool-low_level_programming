@@ -1,15 +1,12 @@
 #include "holberton.h"
-
 /**
- *_islower- lowercase
- *
- *@k : random letter
- *
- * Return: Always 0.
- */
-void _islower(int k)
+*_islower- lowercase
+*@c: integer
+* Return: sometime 0 or 1
+*/
+int _islower(int c)
 {
-if (k >= 'a' && k <= 'Z')
+if (c >= 'a' && c <= 'Z')
 {
 return (1);
 }
