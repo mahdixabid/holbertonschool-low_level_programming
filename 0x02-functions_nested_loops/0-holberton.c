@@ -1,11 +1,11 @@
 #include "holberton.h"
 /**
-*main- main function
+* main - print alphabet
 *
-*
-*Return: 0
+* Return:0  (sucess)
 */
 int main(void)
+{
 _putchar('H');
 _putchar('o');
 _putchar('l');
