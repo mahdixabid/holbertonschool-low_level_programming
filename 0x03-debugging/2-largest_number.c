@@ -20,4 +20,16 @@ else if (c > a && c > b)
 {
 return (c);
 }
+else if (a == b)
+{
+return (a);
+}
+else if (a == c)
+{
+return (c);
+}
+else
+{
+return (b);
+}
 }
