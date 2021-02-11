@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - fizz_buzz function.
+* main - buzz.
 * @i , @j: integers.
 * Return: 0.
 */
