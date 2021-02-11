@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*mul -two integers
+*mul -integers
 *@a:integer
 *@b:integer
 * Return: c.
