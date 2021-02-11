@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
-* 
-*
-*
+* print_triangle -triangle.
+* @size: integer.
+* Return: Triangle
 */
 void print_triangle(int size)
 {
