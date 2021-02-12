@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
-* print_diagonal -diagonal line terminal.
+* print_diagonal -diagonal line.
 * @n: integer.
-* Return:diagonal line.
+* Return:line.
 */
 void print_diagonal(int n)
 {
