@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
 *_isupper -0
-*@c: an integer
+*@c: char
 *Return: either 0 or 1
 */
 int _isupper(int c)
