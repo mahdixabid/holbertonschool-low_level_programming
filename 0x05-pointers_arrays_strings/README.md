@@ -1,0 +1,1 @@
+In short, arr has two purpose - it is the name of the array and it acts as a pointer pointing towards the first element in the array. We can also declare a pointer of type int to point to the array arr . int *p; p = arr; // or, p = &arr[0]; //both the statements are equivalent.
