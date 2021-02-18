@@ -3,7 +3,7 @@
  * _strncpy - a copy of string
  * @dest:the returns
  * @src: pointer
- * @n: config
+ * @n:  config
  *
  * Return: the parameter dest.
  */
