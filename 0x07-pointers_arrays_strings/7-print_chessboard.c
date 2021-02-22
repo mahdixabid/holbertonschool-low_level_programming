@@ -1,10 +1,11 @@
 #include "holberton.h"
 /**
- * print_chessboard - print in the terminal the chessboard
- * @a: The character to print
- *
- */
-void	print_chessboard(char (*a)[8])
+*  print_chessboard - prints a chessboard.
+* @a: array.
+* Return: a chessboard.
+*/
+
+void print_chessboard(char (*a)[8])
 {
 int	i = 0, j;
 
