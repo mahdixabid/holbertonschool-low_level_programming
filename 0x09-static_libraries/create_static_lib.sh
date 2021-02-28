@@ -1,1 +1,1 @@
-gcc *.c | ar rc liball.a
+gcc *.c | ar rs liball.a
