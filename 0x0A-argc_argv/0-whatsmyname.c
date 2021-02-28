@@ -1,9 +1,9 @@
 #include "holberton.h"
 #include <stdio.h>
 /**
- * main - print its name
- * @argc: argument count
- * @argv: argument vector for values
+ * main - print the string 
+ * @argc:  count
+ * @argv:  values
  *
  * Return: Always 0 (Success)
  */
