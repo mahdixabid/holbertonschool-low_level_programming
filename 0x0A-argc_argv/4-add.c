@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
 *main - adds two positive integers.
-*@argc: integer.
+*@argc: integer
 *@argv: string.
 *Return: 0
 */
