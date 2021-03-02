@@ -1,7 +1,7 @@
 #include "holberton.h"
 #include <stdio.h>
 /**
- * main - print the string 
+ * main - print the string
  * @argc:  count
  * @argv:  values
  *
