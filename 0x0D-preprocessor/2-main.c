@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main -the name of it's executable file.
+* main -print the name of the file.
 * @void: void.
 * Return: 0.
 */
