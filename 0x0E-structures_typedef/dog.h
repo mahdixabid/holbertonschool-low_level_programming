@@ -3,8 +3,8 @@
 /**
  *struct dog - print describe dog
  *@name: char
- *@age:float
- *@owner:char
+ *@age: float
+ *@owner: char
  */
 typedef struct dog
 {
