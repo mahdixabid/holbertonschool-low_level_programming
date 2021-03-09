@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include "dog.h"
 /**
- *_dog - initialize a variable
+ *init_dog - initialize a variable
  *@name: char
  *@age: float
  *@owner: char
+ *@d:pointer
  */
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
