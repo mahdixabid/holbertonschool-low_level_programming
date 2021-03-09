@@ -1,7 +1,7 @@
 #ifndef HEADER_FILE
 #define HEADER_FILE
 /**
- *struct dog - dog is dog 
+ *struct dog - dog is dog
  *@name: char
  *@age: float
  *@owner: char
