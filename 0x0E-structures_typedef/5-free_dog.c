@@ -5,7 +5,7 @@
 *@d:pointer
 *Return:void
 */
-void free_dog(dog_t *d)
+void free_dog(dogi *d)
 {
 	free(d->name);
 	free(d->owner);
