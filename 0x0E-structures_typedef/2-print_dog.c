@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include "dog.h"
 /**
- *_dog - initialize a variable
- *@name: char
- *@age: float
- *@owner: char
+ *print_dog - display dog
+ *@d: struct dog
  */
 void print_dog(struct dog *d)
 {
