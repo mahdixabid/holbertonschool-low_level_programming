@@ -1,0 +1,1 @@
+A function pointer, also called a subroutine pointer or procedure pointer, is a pointer that points to a function
