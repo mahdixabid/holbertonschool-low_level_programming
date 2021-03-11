@@ -4,7 +4,7 @@
  * sum_them_all - the sum of all its pa
  * @n: number of pa
  *
- * Return: 0 if n is 0
+ * Return: 0 if n is  0
  */
 int sum_them_all(const unsigned int n, ...)
 {
