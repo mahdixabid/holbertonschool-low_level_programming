@@ -3,7 +3,7 @@
 void msg(void) __attribute__ ((constructor));
 
 /**
- * msg - execute before main
+ * msg - execute before main.
  */
 void msg(void)
 {
