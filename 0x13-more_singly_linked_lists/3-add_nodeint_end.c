@@ -1,7 +1,8 @@
 #include "lists.h"
 /**
- * listint_len -function that returns the number of elements
- * @h: the pointer that points to the struct.
+ * add_nodeint_end - node that we are going to reaplce it with the head node
+ * @n: number of nodes
+ * @head: node header
  * Return: number of nodes.
  */
 
@@ -15,10 +16,10 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 	{
 		return (NULL);
 	}
-while(newnode->next != NULL)
+while (newnode->next != NULL)
 {
-    newnode = newnode->next;
-    head = newnode;
+	newnode = newnode->next;
+	head = newnode;
 }
 
 }
