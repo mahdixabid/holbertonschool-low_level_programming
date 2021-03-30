@@ -1,1 +1,1 @@
-For C File I/O you need to use a FILE pointer, which will let the program keep track of the file being accessed. (You can think of it as the memory address of the file or the location of the file).
+The C programming language provides many standard library functions for file input and output. These functions make up the bulk of the C standard library header <stdio.h>.
