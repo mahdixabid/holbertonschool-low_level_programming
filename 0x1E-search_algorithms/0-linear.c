@@ -29,4 +29,7 @@ int linear_search(int *array, size_t size, int value)
 		i++;
 	}
 	return (value_index);
+	if (array == NULL)
+		return (-1);
+
 }
